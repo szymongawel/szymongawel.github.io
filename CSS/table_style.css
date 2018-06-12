@@ -1,0 +1,37 @@
+*{
+	
+}
+
+
+thead th{
+	font-size:40px;
+}
+
+tbody th{
+	font-size:20px;
+}
+
+th{
+	border:2px solid black;
+	width:25%;
+	color:white;
+}
+
+thead{
+	background-color:#cccccc;
+}
+
+tbody{
+	background-color:red;
+}
+
+a{
+	color:white;
+}
+
+.logo{
+	font-size:60px;
+	color:white;
+	text-align:center;
+	margin-bottom:2%;
+}

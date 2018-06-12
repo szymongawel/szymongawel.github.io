@@ -1,0 +1,40 @@
+body{
+	margin:10px;
+	background-color:black;
+}
+
+.logo{
+	font-size:60px;
+	color:white;
+	text-align:center;
+}
+
+ul li{
+	list-style-image:url(../ZDJ/opona1.png);
+	padding-bottom:4%;
+	font-size:20px;
+}
+
+ol div{
+	float:left;
+	width:45%;
+}
+
+ol li{
+	border-color:black;
+	border-style:solid;
+	border-top-width:4px;
+	border-right-width:0px;
+	border-bottom-width:0px;
+	background-color:grey;
+	font-size:20px;
+	color:white;
+}
+
+a{
+	color:white;
+}
+
+.under{
+	background-color:#cccccc !important
+}

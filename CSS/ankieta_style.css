@@ -1,0 +1,18 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	background-color:black;
+	color:white;
+	line-height:40px;
+	margin-top:2%;
+}
+
+.logo{
+	font-size:60px;
+	color:white;
+	text-align:center;
+	margin-bottom:2%;
+}

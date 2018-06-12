@@ -1,0 +1,20 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	background-color:black;
+}
+
+img{
+	width:40%;
+	height:34%;
+	margin:2.5%;
+}
+
+.galery{
+	color:white;
+	font-size:420%;
+	text-align:center;
+}
